@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is replaced file
 this isn now updated
+=======
+this is second commit
+>>>>>>> parent of de9ab4e... revert testing
